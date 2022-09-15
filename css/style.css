@@ -1,0 +1,125 @@
+
+
+/* 全局 */
+body{
+  /* background-image: url(http://m.qpic.cn/psc?/V54ARW6R0VDZPn1bKoU72oESVh2ceyej/ruAMsa53pVQWN7FLK88i5tGrRb200uH9KmdVEOs5T5s4.9SlrdloUO*mWWwr2RmgfhV0I.0EDHpw.kXOKKLCWE3*7QFSAx.1j8UNC.M8Tvs!/b&bo=OAQEBQAAAAADBx8!&rf=viewer_4); */
+  background-image: url(../images/chunsebeijing.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Noto Serif SC', serif;
+}
+
+/* 导航栏 */
+.navbar-collapse{
+  padding: 14px;
+}
+
+/* 第一部分 */
+.part1{
+  /* background-image:url(http://m.qpic.cn/psc?/V54ARW6R0VDZPn1bKoU72oESVh2ceyej/ruAMsa53pVQWN7FLK88i5v*gEyXfu2yynUBSkrXGJFzJtJQC7yyePgrcGF3wLTG5idUJcXEPZyDx2la0XfxvM7Vd55qrukvLTOOUdn0tXxo!/b&bo=ZgU4BAAAAAADB30!&rf=viewer_4); */
+  background-image: url(../images/zongbg.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.part1-title-img
+{
+  position: relative;
+  top: 22px;
+  left: 43px;
+  width: 80%;
+}
+.sub-title{
+    color: #412B01;
+    width: 82%;
+    position: relative;
+    top: 42px;
+    left: 43px;
+    font-family: 'Noto Serif SC', serif;
+}
+.h1{
+  font-family: 'Noto Serif SC', serif;
+}
+.part1-full{
+  width: 100%;
+  height: 1020px;
+}
+.text1
+{
+  font-family: 'Noto Serif SC', serif;
+  color: #412B01;
+  font-size: 1.5rem;
+  line-height: 3.125rem;
+  padding-left: 3.25rem;
+}
+
+
+
+/* 第二部分 */
+
+.pic2{
+  width: 100%;
+  margin-top: -250px;
+}
+
+.text2{
+  font-family: 'Noto Serif SC', serif;
+  color: #412B01;
+  font-size: 24px;
+  line-height: 50px;
+  margin-top: -190px;
+  padding-left: 52px;
+  padding-right: 52px;
+}
+
+
+/* 第三部分 tab*/
+
+.section-three{
+  margin-top: 60px;
+}
+
+.icon1{
+  float:left;
+  padding-left: 52px;
+  padding-right: 16px;
+  padding-top: 8px;
+
+}
+.shujudaolan{
+    font-family: 'Noto Serif SC', serif;
+    color: #895910;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+}
+
+.tabbg{
+  width: 95%;
+  margin-left: 36px;
+  text-align: center;
+}
+.text3{
+  font-family: 'Noto Serif SC', serif;
+  text-align: center;
+  padding: 42px;
+  color: #412B01;
+  font-size: 1.5rem;
+  line-height: 3.125rem;
+}
+
+/* 图片标题1 */
+
+.pictitle{
+  /* background-image: url(http://m.qpic.cn/psc?/V54ARW6R0VDZPn1bKoU72oESVh2ceyej/ruAMsa53pVQWN7FLK88i5mzP.Rd.Cz4XFJ*pqxnnwnYYdfeWB64Vb54S3uN6DDQC3yxyWFiLxRTgQflMUwYkLHHmF*VrOQdLNk1xjhefngw!/b&bo=.AdsAgAAAAADB7M!&rf=viewer_4); */
+  background-image: url(../images/tupianbiaoti1.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.pictitle-full{
+  width: 100%;
+  height: 1000px;
+}
+.pictitle1{
+  width: 100%;
+  margin-top: 280px;
+  margin-left: 42px;
+}
